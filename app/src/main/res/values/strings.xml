@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AplicationTOC</string>
+    <string name="titulo2">Nuevo Paciente</string>
+    <string name="NombrePaciente">Nombre del Paciente</string>
+    <string name="ApellidoPaciente">Apellido del Paciente</string>
+    <string name="EdadPaciente">Edad del Paciente</string>
+    <string name="CampoVacio"> </string>
+    <string name="CrearPaciente">Nuevo Paciente</string>
+    <string name="titulo1">Diagnóstico TOC</string>
+    <string name="agregar">AGREGAR PACIENTE</string>
+    <string name="historial">HISTORIAL</string>
+    <string name="titulo3">HISTORIAL</string>
+    <string name="puntaje">Puntaje: </string>
+    <string name="grado">Grado: </string>
+    <string name="volver">Volver</string>
+    <string name="title_activity_historial">Historial</string>
+    <string name="title_activity_historia">Historia</string>
+    <string name="HISTORIAL">string/historial</string>
+    <string name="title_activity_nuevo_paciente">NuevoPaciente</string>
+
+    <string name="nombrePaciente">Nicole</string>
+</resources>
